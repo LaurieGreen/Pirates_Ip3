@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ip3game", "SimpleGame\ip3game.csproj", "{FF45C62A-F4ED-41EF-9BD6-336138E67EC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarseerPhysicsXNA", "Farseer Physics 2.1.3 XNA\FarseerPhysicsXNA.csproj", "{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGameContent", "SimpleGame\Content\SimpleGameContent.contentproj", "{C2F0B5EC-C9ED-49E6-98AC-5E911EC4DD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF45C62A-F4ED-41EF-9BD6-336138E67EC1}.Debug|x86.ActiveCfg = Release|x86
+		{FF45C62A-F4ED-41EF-9BD6-336138E67EC1}.Debug|x86.Build.0 = Release|x86
+		{FF45C62A-F4ED-41EF-9BD6-336138E67EC1}.Release|x86.ActiveCfg = Release|x86
+		{FF45C62A-F4ED-41EF-9BD6-336138E67EC1}.Release|x86.Build.0 = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Debug|x86.ActiveCfg = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Debug|x86.Build.0 = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Release|x86.ActiveCfg = Release|x86
+		{3CA74E02-3210-4BF8-85E9-024E9AD6F18D}.Release|x86.Build.0 = Release|x86
+		{C2F0B5EC-C9ED-49E6-98AC-5E911EC4DD17}.Debug|x86.ActiveCfg = Debug|x86
+		{C2F0B5EC-C9ED-49E6-98AC-5E911EC4DD17}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

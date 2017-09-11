@@ -1,0 +1,40 @@
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\gradient.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\TileStrip.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Idle\Alt Left Idle - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Idle\Alt Right Idle - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Idle\Left Idle - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Idle\Right Idle - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Interact\Alt Left Interact - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Interact\Alt Right Interact - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Interact\Left Interact - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Interact\Right Interact - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Jump\Alt Left Jump - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Jump\Alt Right Jump - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Jump\Left Jump - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Jump\Right Jump - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Run\Alt Left Run Sheet - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Run\Alt Right Run - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Run\Left Run - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Run\Right Run - White.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Smaller Sheets\Big sheet.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\splash.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\pirate.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\SimpleGame.exe.manifest
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\SimpleGame.application
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\SimpleGame.exe
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\SimpleGame.pdb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\FarseerPhysics.dll
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Mappy_Map2D.dll
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Module_Persistence.dll
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\FarseerPhysics.pdb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\obj\x86\Debug\SimpleGame.exe.manifest
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\obj\x86\Debug\SimpleGame.application
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\obj\x86\Debug\SimpleGame.exe
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\obj\x86\Debug\SimpleGame.pdb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\blank.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Fonts\gamefont.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Fonts\menufont.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\Map Graphics\new.xnb
+P:\Uni Stuff\Third Year\IP3\SimpleGameIPGame\SimpleGame\bin\x86\Debug\Content\projectile.xnb

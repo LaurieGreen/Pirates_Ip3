@@ -1,0 +1,4 @@
+E:\Uni\IP3\SimpleGameIPGame\SimpleGame\Content\obj\x86\Release\ResolveAssemblyReference.cache
+Q:\Uni\IP3\SimpleGameIPGame\SimpleGame\Content\obj\x86\Release\ResolveAssemblyReference.cache
+O:\Uni\IP3\SimpleGameIPGame\SimpleGame\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Laurie\Documents\XNA Projects\SimpleGameIPGame\SimpleGame\Content\obj\x86\Release\ResolveAssemblyReference.cache
